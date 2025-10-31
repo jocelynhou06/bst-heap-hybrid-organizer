@@ -12,8 +12,3 @@ A Java-based system that combines Binary Search Trees (BST) and Max Heaps to eff
 - Java  
 - Object-Oriented Programming  
 - Data Structures and Algorithms  
-
-## How to Run
-1. Clone the repository: `git clone https://github.com/jocelynhou06/bst-heap-hybrid-organizer.git`  
-2. Open the project in IntelliJ IDEA  
-3. Run `Catfeinated.java` to test functionality
